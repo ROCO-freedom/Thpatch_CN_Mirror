@@ -1,4 +1,4 @@
-# Thpatch_CN_Mirror
+# Thpatch简体中文补丁包镜像仓库
 
 [![touhou patch center](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)](http://thpatch.net)
 [![GitHub issues](https://img.shields.io/github/issues/ROCO-freedom/Thpatch_CN_Mirror.svg?label=Issues&style=flat-square)](https://github.com/ROCO-freedom/Thpatch_CN_Mirror/issues)

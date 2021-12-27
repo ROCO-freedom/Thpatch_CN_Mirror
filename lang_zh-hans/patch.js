@@ -5,7 +5,7 @@
     ],
     "id": "lang_zh-hans",
     "servers": [
-        "https://srv.thpatch.net/lang_zh-hans/"
+        "hhttps://thpatch-cn.coding.net/p/thcrapcn/d/Thpatch_CN_Patchfiles_Mirror/git/raw/main/lang_zh-hans/"
     ],
     "title": "Simplified Chinese language pack",
     "update": true

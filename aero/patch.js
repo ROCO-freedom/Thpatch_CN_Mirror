@@ -4,7 +4,7 @@
 	],
 	"id": "aero",
 	"servers": [
-		"https://mirrors.thpatch.net/nmlgc/aero/"
+		"https://thpatch-cn.coding.net/p/thcrapcn/d/Thpatch_CN_Patchfiles_Mirror/git/raw/main/aero/"
 	],
 	"title": "Enable Aero compositing"
 }

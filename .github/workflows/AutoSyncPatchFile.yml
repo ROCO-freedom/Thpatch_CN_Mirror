@@ -71,4 +71,4 @@ jobs:
         git push -f https://${CODING_NAME}:${CODING_TOKEN}@e.coding.net/thpatch-cn/thcrapcn/Thpatch_CN_Patchfiles_Mirror.git || true
     - name: Clean the space.
       run: |
-        sudo rm -rf ./Thpatch_CN_Patchfiles_Mirror ./Thpatch_CN_Mirror
+        sudo rm -rf *

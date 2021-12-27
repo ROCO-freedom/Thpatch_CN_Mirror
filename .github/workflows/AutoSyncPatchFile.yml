@@ -7,19 +7,19 @@ jobs:
   Download_latest_patch_file_and_save:
     runs-on: ubuntu-latest
     steps:
-    - name: Preparing for push to Coding repository.
+    - name: Preparing for push to GitHub and Coding repository.
       env:
           CODING_TOKEN: ${{ secrets.CODING_TOKEN }}
           CODING_NAME: ${{ secrets.CODING_NAME }}
+          GITHUB_TOKEN: ${{ secrets.SYNCHONIZE_TOKEN }}
       run: |
         git clone https://${CODING_NAME}:${CODING_TOKEN}@e.coding.net/thpatch-cn/thcrapcn/Thpatch_CN_Patchfiles_Mirror.git
         sudo rm -rf ./Thpatch_CN_Patchfiles_Mirror/aero ./Thpatch_CN_Patchfiles_Mirror/base_tasofro ./Thpatch_CN_Patchfiles_Mirror/base_tsa ./Thpatch_CN_Patchfiles_Mirror/lang_zh-hans
-        pwd
+        git clone https://$GITHUB_TOKEN@github.com/ROCO-freedom/Thpatch_CN_Mirror.git
         
-    - uses: actions/checkout@v2
     - name: Pull the latest patch file from the main source server (https://srv.thpatch.net/lang_zh-hans/)
       run: |
-        pwd
+        cd ./Thpatch_CN_Mirror
         cd ./TimingSync
         sudo wget -tries=10 https://srv.thpatch.net/lang_zh-hans/files.js
         sudo chmod +x ./PatchFileSync
@@ -54,16 +54,19 @@ jobs:
           CODING_TOKEN: ${{ secrets.CODING_TOKEN }}
           CODING_NAME: ${{ secrets.CODING_NAME }}
       run: |
+        cd ./Thpatch_CN_Mirror
         sudo rm -rf ./aero/.svn/ ./base_tasofro/.svn/ ./base_tsa/.svn/
-        sudo mv ./aero ./Thpatch_CN_Patchfiles_Mirror
-        sudo mv ./base_tasofro ./Thpatch_CN_Patchfiles_Mirror
-        sudo mv ./base_tsa ./Thpatch_CN_Patchfiles_Mirror
-        sudo mv ./lang_zh-hans ./Thpatch_CN_Patchfiles_Mirror
+        sudo mv ./aero ../Thpatch_CN_Patchfiles_Mirror
+        sudo mv ./base_tasofro ../Thpatch_CN_Patchfiles_Mirror
+        sudo mv ./base_tsa ../Thpatch_CN_Patchfiles_Mirror
+        sudo mv ./lang_zh-hans ../Thpatch_CN_Patchfiles_Mirror
         git config --global user.name "ROCO2021"
         git config --global user.email "1401548627@qq.com" 
-        cd ./Thpatch_CN_Patchfiles_Mirror
+        cd ../Thpatch_CN_Patchfiles_Mirror
         git add .
         git status
         git commit -m $(echo -e "同步至国内仓库。`date "+%Y-%m-%d===>%H:%M"`(UTC)") || true
         git push -f https://${CODING_NAME}:${CODING_TOKEN}@e.coding.net/thpatch-cn/thcrapcn/Thpatch_CN_Patchfiles_Mirror.git || true
-        
+    - name: Clean the space.
+      run: |
+        sudo rm -rf ./Thpatch_CN_Patchfiles_Mirror ./Thpatch_CN_Mirror

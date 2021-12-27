@@ -52,7 +52,7 @@ jobs:
           CODING_TOKEN: ${{ secrets.CODING_TOKEN }}
           CODING_NAME: ${{ secrets.CODING_NAME }}
       run: |
-        ll
+        ls -l
         sudo rm -rf ./aero/.svn/ ./base_tasofro/.svn/ ./base_tsa/.svn/
         sudo mv ./aero ./Thpatch_CN_Patchfiles_Mirror
         sudo mv ./base_tasofro ./Thpatch_CN_Patchfiles_Mirror

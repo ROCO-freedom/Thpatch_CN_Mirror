@@ -34,6 +34,7 @@ jobs:
             
     - name: Pull the latest hook config files from thcrap-tsa（https://github.com/thpatch/thcrap-tsa）
       run: |
+        cd ./Thpatch_CN_Mirror
         svn checkout https://github.com/thpatch/thcrap-tsa/trunk/aero
         svn checkout https://github.com/thpatch/thcrap-tsa/trunk/base_tasofro
         svn checkout https://github.com/thpatch/thcrap-tsa/trunk/base_tsa

@@ -40,12 +40,21 @@ jobs:
     - name: Rebuild the files.js for each folder.
       run: |
         cd ./Thpatch_CN_Mirror/TimingSync
+        sudo mkdir aero base_tasofro base_tsa
+        sudo mv ../aero/.svn ./aero/.svn
+        sudo mv ../base_tasofro/.svn ./base_tasofro/.svn
+        sudo mv ../base_tsa/.svn ./base_tsa/.svn
         sudo cp repo_update ../repo_update
         cd ..
         sudo rm -rf ./aero/files.js ./base_tasofro/files.js ./base_tsa/files.js ./lang_zh-hans/files.js
         sudo chmod +x ./repo_update
         ./repo_update
         sudo rm -f repo_update
+        cd ./TimingSync
+        sudo mv ./aero/.svn ../aero/.svn
+        sudo mv ./base_tasofro/.svn ../base_tasofro/.svn
+        sudo mv ./base_tsa/.svn ../base_tsa/.svn
+        sudo rm -rf aero base_tasofro base_tsa
         
     - name: Push the patch file to the GitHub repository.
       env:

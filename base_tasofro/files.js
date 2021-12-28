@@ -9,7 +9,7 @@
 	"nsml.js": 1778165120,
 	"nsml.v1.00.js": 414716245,
 	"nsml.v1.10.js": 3498594662,
-	"patch.js": 3807994172,
+	"patch.js": 1115295168,
 	"th105.js": 187507368,
 	"th105.v1.06a.js": 1642821733,
 	"th105/data/csv/alice/spellcard.cv1.map": 2228498628,

@@ -29,7 +29,7 @@
     "utsuho-1": "狱炎「Inferno Burner」",
     "utsuho-2": "狱光「Diffuse Hellfire」",
     "utsuho-3": "「盗日之鸦」",
-    "utsuho-4": "狱炎「Magmatic fall」",
+    "utsuho-4": "狱炎「Magmatic Fall」",
     "kutaka-1": "长鸣「醒来吧，葬于此地的幽灵们」",
     "kutaka-2": "笛符「幽灵们啊，回归自己应属之地」",
     "kutaka-3": "庭渡「视野辽阔的旧地狱」",

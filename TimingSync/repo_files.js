@@ -1898,7 +1898,7 @@
     "th09/data/title/slpl15tx.png": 135932377,
     "th09/data/title/slstname.png": 2590002735,
     "th09/data/front/front.png": 2085370764,
-    "th09/data/ascii/pause.png": 2932190705,
+    "th09/data/ascii/pause.png": 3434215514,
     "th09/data/front/mname.png": 1767857983,
     "th09/data/pl/pl00/pl00_ct00.png": 3725538389,
     "th09/data/pl/pl00b/pl00b_ct00.png": 3433330536,

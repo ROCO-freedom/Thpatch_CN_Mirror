@@ -197,7 +197,7 @@
 	"th08/spellcomments.js": 4102584283,
 	"th08/spells.js": 1609247615,
 	"th09/data/ascii/ascii.png": 1040903057,
-	"th09/data/ascii/pause.png": 2932190705,
+	"th09/data/ascii/pause.png": 3434215514,
 	"th09/data/end/staff00a00.png": 1322696461,
 	"th09/data/end/staff00a01.png": 2300173394,
 	"th09/data/end/staff00a02.png": 3404565302,

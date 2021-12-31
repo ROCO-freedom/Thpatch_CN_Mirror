@@ -55,10 +55,10 @@ jobs:
         sudo mv base_tasofro ../thcrap-tsa-CN-mirror/base_tasofro
         sudo mv base_tsa ../thcrap-tsa-CN-mirror/base_tsa
         sudo chmod +x ./repo_update
-        ./repo_update
+        sudo ./repo_update
         cd ../thcrap-tsa-CN-mirror
         sudo chmod +x ./repo_update
-        ./repo_update
+        sudo ./repo_update
         # 清理并恢复目录结构
         sudo rm -f repo_update ../Thpatch_CN_Mirror/repo_update
         sudo mv aero ../Thpatch_CN_Mirror/aero

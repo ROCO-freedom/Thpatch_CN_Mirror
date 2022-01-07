@@ -2559,7 +2559,7 @@
     "th175/data/event/script/reimu_stage6.pl.jdiff": 3311542945,
     "th175/data/event/script/ending/yorigami_js.pl.jdiff": 2765402256,
     "th175/data/event/script/ending/flandreA.pl.jdiff": 1172082263,
-    "th175/data/event/script/ending/flandreB.pl.jdiff": 3720809533,
+    "th175/data/event/script/ending/flandreB.pl.jdiff": 3250346666,
     "th175/data/event/script/ending/flandreC.pl.jdiff": 824073952,
     "th175/data/event/script/marisa_stage1.pl.jdiff": 3148268566,
     "th175/data/event/script/marisa_stage1_win.pl.jdiff": 2212758099,
@@ -2591,5 +2591,6 @@
     "th175/data/event/script/marisa_stage5.pl.jdiff": 3618453681,
     "th175/data/event/script/marisa_stage5b.pl.jdiff": 1898209871,
     "th175/data/event/script/marisa_stage5_win.pl.jdiff": 1909779324,
-    "th175/data/event/script/marisa_stage6.pl.jdiff": 3851754522
+    "th175/data/event/script/marisa_stage6.pl.jdiff": 3851754522,
+    "th175/data/event/script/ending/marisa.pl.jdiff": 2995406014
 }

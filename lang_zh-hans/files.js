@@ -2352,6 +2352,7 @@
 	"th175/data/resource/manual/p1.png": 1990035601,
 	"th175/data/resource/manual/p2.png": 3798313012,
 	"th175/data/resource/manual/p3.png": 3273180232,
+	"th175/data/resource/menu_frame/menu_caption_font.png": 2448072224,
 	"th175/data/resource/pause/menu_item.png": 2746160222,
 	"th175/data/resource/stage_result/font_win_lose.png": 4233805755,
 	"th175/data/resource/subtitle/font_subtitle_0.png": 3004992605,

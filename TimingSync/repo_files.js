@@ -2592,5 +2592,6 @@
     "th175/data/event/script/marisa_stage5b.pl.jdiff": 1898209871,
     "th175/data/event/script/marisa_stage5_win.pl.jdiff": 1909779324,
     "th175/data/event/script/marisa_stage6.pl.jdiff": 3851754522,
-    "th175/data/event/script/ending/marisa.pl.jdiff": 2995406014
+    "th175/data/event/script/ending/marisa.pl.jdiff": 2995406014,
+    "th175/data/resource/menu_frame/menu_caption_font.png": 2448072224
 }

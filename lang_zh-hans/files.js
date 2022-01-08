@@ -2286,7 +2286,7 @@
 	"th175/data/event/script/ending/flandreC.pl.jdiff": 824073952,
 	"th175/data/event/script/ending/kanako.pl.jdiff": 3649292124,
 	"th175/data/event/script/ending/marisa.pl.jdiff": 2995406014,
-	"th175/data/event/script/ending/murasa.pl.jdiff": 3436158736,
+	"th175/data/event/script/ending/murasa.pl.jdiff": 3550367795,
 	"th175/data/event/script/ending/reimu.pl.jdiff": 3077604402,
 	"th175/data/event/script/ending/yorigami_js.pl.jdiff": 2765402256,
 	"th175/data/event/script/marisa/ed.pl.jdiff": 1701782132,
@@ -2587,5 +2587,5 @@
 	"th18/trophy.js": 73017536,
 	"th18/trophy.v0.01b.js": 4293864615,
 	"th18/trophy.v0.02a.js": 296307071,
-	"themes.js": 2318711312
+	"themes.js": 2861469959
 }

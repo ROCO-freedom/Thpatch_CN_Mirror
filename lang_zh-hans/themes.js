@@ -525,7 +525,7 @@
     "th03_06": "Tabula rasa　～ 空白少女",
     "th03_05": "Dim. Dream",
     "th03_07": "Maniacal Princess",
-    "th03_08": "夢消失　～ Lost Dream",
+    "th03_08": "梦消失　～ Lost Dream",
     "th03_09": "梦幻游戏　～ Dream War",
     "th03_10": "胜利的示范",
     "th03_11": "魔法决战！　～ Fight it out!",

@@ -2593,5 +2593,15 @@
     "th175/data/event/script/marisa_stage5_win.pl.jdiff": 1909779324,
     "th175/data/event/script/marisa_stage6.pl.jdiff": 3851754522,
     "th175/data/event/script/ending/marisa.pl.jdiff": 2995406014,
-    "th175/data/resource/menu_frame/menu_caption_font.png": 2448072224
+    "th175/data/resource/menu_frame/menu_caption_font.png": 2448072224,
+    "th175/data/event/pic/ed/flandre-B2.png": 4102462645,
+    "th175/data/event/pic/ed/flandre-B2_line.png": 2698632296,
+    "th175/data/event/pic/ed/kanako-2.png": 920054006,
+    "th175/data/event/pic/ed/kanako-2_line.png": 736837533,
+    "th175/data/event/pic/ed/marisa-2.png": 3903827695,
+    "th175/data/event/pic/ed/marisa-2_line.png": 3364379384,
+    "th175/data/event/pic/ed/murasa-2_line.png": 3821306689,
+    "th175/data/event/pic/ed/murasa-2.png": 2091908261,
+    "th175/data/sprite/tutorial/tutorial_reimu.png": 384608987,
+    "th175/data/sprite/tutorial/tutorial_reimu2.png": 3812966797
 }

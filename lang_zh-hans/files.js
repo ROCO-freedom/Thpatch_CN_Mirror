@@ -2355,7 +2355,7 @@
 	"th175/data/resource/char_select/char_name2.png": 2276066729,
 	"th175/data/resource/char_select/char_name3.png": 4037528780,
 	"th175/data/resource/char_select/char_name4.png": 2950976109,
-	"th175/data/resource/char_select/char_name5.png": 2262365983,
+	"th175/data/resource/char_select/char_name5.png": 781796571,
 	"th175/data/resource/char_select/char_name6.png": 1255963162,
 	"th175/data/resource/char_select/font_alias_name.png": 2474088881,
 	"th175/data/resource/char_select/font_alias_name1.png": 2259852446,

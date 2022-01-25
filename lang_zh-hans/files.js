@@ -1,4 +1,5 @@
 {
+	"alcostg/ascii/ascii.png": 1040903057,
 	"alcostg/ascii/loading.png": 2708720686,
 	"alcostg/ascii/pause.png": 1871206336,
 	"alcostg/ed/ed1c.png": 3493684947,
@@ -13,7 +14,7 @@
 	"alcostg/front/st3logo00.png": 2098591687,
 	"alcostg/loading/sig.png": 3444604480,
 	"alcostg/loading/sig_r.png": 4250871156,
-	"alcostg/spells.js": 59845079,
+	"alcostg/spells.js": 3671041613,
 	"alcostg/title/Option.png": 2716969814,
 	"alcostg/title/Title.png": 259800714,
 	"global.js": 1281530159,

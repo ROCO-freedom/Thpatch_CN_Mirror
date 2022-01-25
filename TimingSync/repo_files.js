@@ -2,7 +2,7 @@
     "global.js": 21338598,
     "th08/msg4ac.dat.jdiff": 3720022070,
     "patch.js": 3606053921,
-    "alcostg/spells.js": 59845079,
+    "alcostg/spells.js": 3671041613,
     "stringdefs.js": 3659723145,
     "th06/msg7.dat.jdiff": 810250757,
     "th06/msg1.dat.jdiff": 3108529199,
@@ -2726,5 +2726,6 @@
     "th175/data/sprite/spell_name_files/yamame_002.png": 3144584997,
     "th175/data/sprite/spell_name_files/yamame_001.png": 1121431931,
     "th175/data/sprite/spell_name_files/yuugi_001.png": 1160388135,
-    "th175/data/sprite/spell_name_files/yuugi_002.png": 312580412
+    "th175/data/sprite/spell_name_files/yuugi_002.png": 312580412,
+    "alcostg/ascii/ascii.png": 1040903057
 }

@@ -705,7 +705,7 @@
     "th17/st07i.msg.jdiff": 1497308386,
     "alcostg/loading/sig.png": 3444604480,
     "alcostg/loading/sig_r.png": 4250871156,
-    "alcostg/ed/ed1c.png": 3493684947,
+    "alcostg/ed/ed1c.png": 1491470072,
     "alcostg/enemy/beertaru.png": 2505458704,
     "alcostg/ascii/loading.png": 2708720686,
     "alcostg/title/Option.png": 2716969814,

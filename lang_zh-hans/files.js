@@ -2,7 +2,7 @@
 	"alcostg/ascii/ascii.png": 1040903057,
 	"alcostg/ascii/loading.png": 2708720686,
 	"alcostg/ascii/pause.png": 1871206336,
-	"alcostg/ed/ed1c.png": 3493684947,
+	"alcostg/ed/ed1c.png": 1491470072,
 	"alcostg/ed/staff_roll.png": 2619890557,
 	"alcostg/enemy/beertaru.png": 2505458704,
 	"alcostg/front/chit.png": 3667868246,

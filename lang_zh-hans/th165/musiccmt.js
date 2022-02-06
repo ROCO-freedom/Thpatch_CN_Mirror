@@ -40,14 +40,14 @@
         "",
         "剧情主题曲其1。",
         "　",
-        "＊选自 旧约酒吧　～ Dateless Bar \"Old Adam\""
+        "＊选自 旧约酒馆　～ Dateless Bar \"Old Adam\""
     ],
     "6": [
         "@",
         "",
         "剧情主题曲其2。",
         "　",
-        "＊选自 旧约酒吧　～ Dateless Bar \"Old Adam\""
+        "＊选自 旧约酒馆　～ Dateless Bar \"Old Adam\""
     ],
     "7": [
         "@",

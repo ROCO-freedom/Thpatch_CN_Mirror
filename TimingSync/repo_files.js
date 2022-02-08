@@ -1730,7 +1730,7 @@
     "th07/end10b.end.jdiff": 831726523,
     "th07/end20.end.jdiff": 3082084499,
     "th07/end21.end.jdiff": 303641158,
-    "th07/end20b.end.jdiff": 2496230201,
+    "th07/end20b.end.jdiff": 3644583677,
     "th07/data/title/replay00.png": 1730915428,
     "th06/result02.png": 334703680,
     "th13/title/select01.png": 3075237662,

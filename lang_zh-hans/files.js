@@ -90,7 +90,7 @@
 	"th07/end10b.end.jdiff": 831726523,
 	"th07/end11.end.jdiff": 3982219032,
 	"th07/end20.end.jdiff": 3082084499,
-	"th07/end20b.end.jdiff": 2496230201,
+	"th07/end20b.end.jdiff": 3644583677,
 	"th07/end21.end.jdiff": 303641158,
 	"th07/msg1.dat.jdiff": 1856280685,
 	"th07/msg2.dat.jdiff": 4186803057,

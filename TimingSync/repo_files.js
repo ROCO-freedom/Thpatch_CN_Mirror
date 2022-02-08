@@ -711,7 +711,7 @@
     "alcostg/title/Option.png": 2716969814,
     "alcostg/title/Title.png": 259800714,
     "alcostg/front/front00.png": 546410559,
-    "alcostg/front/front01.png": 1613421896,
+    "alcostg/front/front01.png": 3957453569,
     "alcostg/ascii/pause.png": 1871206336,
     "alcostg/front/music.png": 3826788613,
     "alcostg/front/chit.png": 3667868246,

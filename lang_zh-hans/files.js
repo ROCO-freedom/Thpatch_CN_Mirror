@@ -7,7 +7,7 @@
 	"alcostg/enemy/beertaru.png": 256749473,
 	"alcostg/front/chit.png": 3667868246,
 	"alcostg/front/front00.png": 546410559,
-	"alcostg/front/front01.png": 1613421896,
+	"alcostg/front/front01.png": 3957453569,
 	"alcostg/front/music.png": 3826788613,
 	"alcostg/front/st1logo00.png": 3465158428,
 	"alcostg/front/st2logo00.png": 4144142141,
